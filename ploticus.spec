@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Graphics
 Source0:	http://ploticus.sourceforge.net/download/pl231src.tar.gz
+# Source0-md5:	70712f7f41484db3bfd9210ae7742762
 URL:		http://ploticus.sourceforge.net
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
