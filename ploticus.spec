@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Charting tool
-Summary(pl):	Narzêdzie do wykresów
+Summary(pl.UTF-8):   NarzÄ™dzie do wykresÃ³w
 Name:		ploticus
 Version:	2.31
 Release:	1
@@ -20,25 +20,25 @@ handles date and time data nicely, and has basic statistical
 capabilities. It allows significant user control over colors, styles,
 options and details.
 
-%description -l pl
+%description -l pl.UTF-8
 Darmowy, wydany na GPL pakiet oprogramowania nieinteraktywnego do
-tworzenia rysunków, wykresów i grafiki z danych. Zosta³ stworzony w
-¶rodowisku Unix/C i dzia³a na ró¿nych systemach uniksowych, pod
-Linuksem oraz Win32. ploticus jest dobry do generowania wykresów
-zautomatyzowanego lub w czasie rzeczywistym, obs³uguje dobrze dane
-dotycz±ce daty i czasu, ma podstawowe mo¿liwo¶ci statystyczne. Daje
-u¿ytkownikowi znacz±c± kontrolê nad kolorami, stylami, opcjami i
-szczegó³ami.
+tworzenia rysunkÃ³w, wykresÃ³w i grafiki z danych. ZostaÅ‚ stworzony w
+Å›rodowisku Unix/C i dziaÅ‚a na rÃ³Å¼nych systemach uniksowych, pod
+Linuksem oraz Win32. ploticus jest dobry do generowania wykresÃ³w
+zautomatyzowanego lub w czasie rzeczywistym, obsÅ‚uguje dobrze dane
+dotyczÄ…ce daty i czasu, ma podstawowe moÅ¼liwoÅ›ci statystyczne. Daje
+uÅ¼ytkownikowi znaczÄ…cÄ… kontrolÄ™ nad kolorami, stylami, opcjami i
+szczegÃ³Å‚ami.
 
 %package libs
 Summary:	Libraries for ploticus charting
-Summary(pl):	Biblioteki do oprogramowania ploticus
+Summary(pl.UTF-8):   Biblioteki do oprogramowania ploticus
 Group:		Libraries
 
 %description libs
 Libraries for ploticus charting.
 
-%description libs -l pl
+%description libs -l pl.UTF-8
 Biblioteki do oprogramowania ploticus.
 
 %prep
