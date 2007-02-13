@@ -1,6 +1,6 @@
 # TODO: optflags
 Summary:	Charting tool
-Summary(pl.UTF-8):   Narzędzie do wykresów
+Summary(pl.UTF-8):	Narzędzie do wykresów
 Name:		ploticus
 Version:	2.31
 Release:	1
@@ -32,7 +32,7 @@ szczegółami.
 
 %package libs
 Summary:	Libraries for ploticus charting
-Summary(pl.UTF-8):   Biblioteki do oprogramowania ploticus
+Summary(pl.UTF-8):	Biblioteki do oprogramowania ploticus
 Group:		Libraries
 
 %description libs
